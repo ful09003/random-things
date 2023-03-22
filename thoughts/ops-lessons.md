@@ -84,6 +84,7 @@ him any longer). Thoughts I have are
 > 
 > Nobody knows how git works; everybody simply rm -fr && git checkout's periodically.
 * Every year I feel I find new nuggets of joy (and sorrow) when using `git`
+* Also, needint to `rm -rf && git checkout` happens at the worst possible times (such as demoing or pairing)
 > There are very few network restrictions creative and determined use of ssh(1) port forwarding can't overcome.
 > 
 > This is both incredibly useful and concerning.
